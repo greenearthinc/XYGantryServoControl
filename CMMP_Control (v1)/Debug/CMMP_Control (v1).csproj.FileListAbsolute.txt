@@ -1,0 +1,13 @@
+E:\MyDocuments\Controls Software & Documentation\Modbus TCPIP\C#\CMMP_Control (v1)\CMMP_Control (v1)\bin\Debug\CMMP_Control (v1).exe.config
+E:\MyDocuments\Controls Software & Documentation\Modbus TCPIP\C#\CMMP_Control (v1)\CMMP_Control (v1)\bin\Debug\CMMP_Control (v1).exe
+E:\MyDocuments\Controls Software & Documentation\Modbus TCPIP\C#\CMMP_Control (v1)\CMMP_Control (v1)\bin\Debug\CMMP_Control (v1).pdb
+E:\MyDocuments\Controls Software & Documentation\Modbus TCPIP\C#\CMMP_Control (v1)\CMMP_Control (v1)\obj\Debug\CMMP_Control (v1).exe
+E:\MyDocuments\Controls Software & Documentation\Modbus TCPIP\C#\CMMP_Control (v1)\CMMP_Control (v1)\obj\Debug\CMMP_Control (v1).pdb
+E:\MyDocuments\Controls Software & Documentation\Modbus TCPIP\C#\CMMP_Control (v1)\CMMP_Control (v1)\obj\Debug\CMMP_Control__v1_.Properties.Resources.resources
+E:\MyDocuments\Controls Software & Documentation\Modbus TCPIP\C#\CMMP_Control (v1)\CMMP_Control (v1)\obj\Debug\CMMP_Control (v1).csproj.GenerateResource.Cache
+E:\MyDocuments\Controls Software & Documentation\Modbus TCPIP\C#\CMMP_Control (v1)\CMMP_Control (v1)\bin\Debug\FtdAdapter.dll
+E:\MyDocuments\Controls Software & Documentation\Modbus TCPIP\C#\CMMP_Control (v1)\CMMP_Control (v1)\bin\Debug\log4net.dll
+E:\MyDocuments\Controls Software & Documentation\Modbus TCPIP\C#\CMMP_Control (v1)\CMMP_Control (v1)\bin\Debug\Modbus.dll
+E:\MyDocuments\Controls Software & Documentation\Modbus TCPIP\C#\CMMP_Control (v1)\CMMP_Control (v1)\bin\Debug\Modbus.Extensions.dll
+E:\MyDocuments\Controls Software & Documentation\Modbus TCPIP\C#\CMMP_Control (v1)\CMMP_Control (v1)\bin\Debug\Unme.Common.dll
+E:\MyDocuments\Controls Software & Documentation\Modbus TCPIP\C#\CMMP_Control (v1)\CMMP_Control (v1)\obj\Debug\CMMP_Control (v1).csprojResolveAssemblyReference.cache
